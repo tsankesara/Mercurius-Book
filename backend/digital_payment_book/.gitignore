@@ -1,0 +1,5 @@
+.env
+digital_payment_book/account/__paycache__
+digital_payment_book/digital_payment_book/__paycache__
+*.pyc
+db.sqlite3
